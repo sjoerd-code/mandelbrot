@@ -4,6 +4,8 @@ This is a mandelbrot renderer i made in opengl using opentk and dear imgui.
 
 ## How to build:
 
+Install .NET 6: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+
 restore dependencies: ``dotnet restore``
 
 run in debug mode: ``dotnet run``
